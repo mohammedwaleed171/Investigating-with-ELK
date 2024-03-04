@@ -25,8 +25,8 @@
 ```A2: 192.166.65.54```
 - We can view source ip adresses by choosing source_ip field.
   <p align="center"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*RQQExrC8kooHY-jlQbjE-A.png" height="40%" width="40%" /><p/></p> <br/>
-- There is traffic from the source IP address “192.166.65.54” to the destination IP address “104.23.99.190”. When we search the relevant destination IP address, we can see that the IP address 104.23.99.190 is classified in the Command and Control IPs category by reliable cyber intelligence resources.
-  ```https://otx.alienvault.com/indicator/ip/104.23.99.190```
+- There is traffic from the source IP address “192.166.65.54” to the destination IP address “104.23.99.190”. When we search the relevant destination IP address, we can see that the IP address 104.23.99.190 is classified in the Command and Control IPs category by reliable cyber intelligence resources. <br/>
+  ```https://otx.alienvault.com/indicator/ip/104.23.99.190``` <br/>
 **Q3: The user’s machine used a legit windows binary to download a file from the C2 server. What is the name of the binary?** <br/>
 ```A3: bitsadmin```
 - Bitsadmin is a command-line tool used to create, download or upload jobs, and to monitor their progress.
