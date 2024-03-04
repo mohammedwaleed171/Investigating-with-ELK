@@ -40,7 +40,7 @@
 **Q5: What is the full URL of the C2 to which the infected host is connected?** <br/>
 ```A5: pastebin.com/yTg0Ah6a```
 - When we examine other information detected about the relevant event, we can determine the full URL address.
-  <p align="center"><img src="" height="40%" width="40%" /><p/></p> <br/>
+  <p align="center"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*ORmhEJt8dKGU6_E8Ie-pRA.png" height="40%" width="40%" /><p/></p> <br/>
 **Q6: A file was accessed on the filesharing site. What is the name of the file accessed?** <br/>
 ```A6: secret.txt```
 - By opening the full URL on your browser you will see the name of the file.
